@@ -1,0 +1,26 @@
+header,section,footer{
+    width: 100%;
+}
+
+section {
+   padding-top: 120px;
+}
+
+
+
+.swiper-slide {
+    display: flex;
+    flex-direction: row;
+}
+
+
+@media screen and (max-width: 767px)  {
+
+    .container {
+    padding: 0 20px;
+    }
+
+
+
+
+}
